@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/env bash
 ### Installer for preferred packages.
 
 ### Install packages for installed distro or exit if distro not supported.

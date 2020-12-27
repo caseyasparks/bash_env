@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # Personal defaults.
 export EDITOR=vim
