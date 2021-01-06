@@ -1,0 +1,4 @@
+#!/bin/env bash
+### Kills process by regular expression. Use with caution.
+
+kill $(ps aux | grep -Ei $2 | awk '{print $2}')
